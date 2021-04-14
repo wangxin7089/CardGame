@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CGameCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OObject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CardsCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sys.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cards.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Poker.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CardsRank.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Rule.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AAACardsRank.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AAARule.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OObject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CardsCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cards.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Poker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CardsRank.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AAACardsRank.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AAARule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Cards.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\cl1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\cl2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\cl3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\cl4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\cl5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\cl6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\cl7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\cl8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\cl9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\cl10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\clj.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\clq.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\clz.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\di1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\di2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\di3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\di4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\di5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\di6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\di7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\di8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\di9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\di10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\dij.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\diq.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\diz.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\he1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\he2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\he3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\he4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\he5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\he6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\he7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\he8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\he9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\he10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\hej.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\heq.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\hez.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sp1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sp2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sp3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sp4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sp5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sp6.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sp7.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sp8.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sp9.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\sp10.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\spj.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\spq.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\spz.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap53.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\背景.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
